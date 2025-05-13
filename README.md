@@ -25,14 +25,6 @@
 4. 获取到的Cookie会显示在文本框中
 5. 点击"复制到剪贴板"按钮即可复制Cookie
 
-## 支持的域名
-
-扩展会自动获取以下所有域名的Cookie：
-- xiaohongshu.com
-- www.xiaohongshu.com
-- as.xiaohongshu.com
-- t2.xiaohongshu.com
-
 ## 注意事项
 
 - 使用本扩展前请先登录小红书网站
