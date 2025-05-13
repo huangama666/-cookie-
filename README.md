@@ -1,6 +1,6 @@
 # 小红书Cookie获取器
 
-这是一个简单的Chrome浏览器扩展，用于一键获取小红书（xiaohongshu.com）网站的所有Cookie信息，包括webprofile API请求所需的认证信息。
+这是一个简单的Chrome浏览器扩展，用于一键获取小红书（xiaohongshu.com）网站的所有Cookie信息
 
 ## 功能
 
